@@ -1,9 +1,10 @@
-#### Hi, I'm Pedro Santos, 24, Software Engineer, working my way up to become a high quality software engineer.
+Hello, this is **Pedro Santos**
+
+I'm a passionate **software developer** living in **Leiria, Portugal**, working for Xsealence as Full Stack Web Developer.
 <hr/>
 <div align="center">
   <a href="https://github.com/pedrosantos867">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrosantos867&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos867&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pedrosantos867&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="pedro-santos-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,8 +23,4 @@
 <p align="center">
   <a href="mailto:7psantos@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/7psantos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="right">
-  
 </p>
