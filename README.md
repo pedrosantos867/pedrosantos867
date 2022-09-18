@@ -1,6 +1,6 @@
 Hello, this is **Pedro Santos**
 
-I'm a passionate **software developer** living in **Leiria, Portugal**, working for Xsealence as Full Stack Web Developer.
+I'm a passionate **software developer** living in **Leiria, Portugal**, working for Xsealence as a Full Stack Web Developer.
 <hr/>
 <div align="center">
   <a href="https://github.com/pedrosantos867">
