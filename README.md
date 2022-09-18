@@ -8,6 +8,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="pedro-santos-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-santos-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="pedro-santos-ng" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//angularjs/angularjs-plain.svg">
   <img align="center" alt="pedro-santos-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="pedro-santos-redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="pedro-santos-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
