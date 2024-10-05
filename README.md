@@ -1,7 +1,7 @@
 Hello, this is **Pedro Santos**
 
 I'm a passionate **software developer** living in **Leiria, Portugal**, working for Xsealence as a Full Stack Web Developer.
-<hr/>
+<!-- <hr/> -->
 <!-- <div align="center">
   <a href="https://github.com/pedrosantos867">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pedrosantos867&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl"/>
@@ -19,7 +19,7 @@ I'm a passionate **software developer** living in **Leiria, Portugal**, working 
   <img align="center" alt="pedro-santos-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="pedro-santos-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-<hr/>
+<!-- <hr/> -->
 <!-- <p align="center">
   <a href="mailto:7psantos@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/7psantos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
